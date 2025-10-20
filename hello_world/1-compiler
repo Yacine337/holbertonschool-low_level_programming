@@ -1,0 +1,5 @@
+#!/bin/bash
+# Convertir le nom du fichier .c en .o
+OBJFILE="${CFILE%.c}.o"
+# Compiler sans lier
+gcc -c "$CFILE" -o "$OBJFILE"
