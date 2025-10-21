@@ -1,14 +1,13 @@
 #include <stdio.h>
-
 /**
- * main - point d'entree du programme
+ * main
  *
- * Description: affiche la phrase demandee
+ * Description:
  *
- * Return: toujours 0 (succes)
+ * Return:
  */
 int main(void)
 {
-  puts("\"Programming is like building a multilingual puzzle");
-  return (0); /* le programme se termine avec la valeur 0 */
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0); /* Le programme se termine avec la valeur 0 */
 }
