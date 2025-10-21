@@ -2,7 +2,7 @@
 /**
  * main - point d'entree du programme
  *
- * Description: affiche la phrase 
+ * Description: affiche la phrase
  *
  * Return: 0 pour indiquer que le programme s'est termine avec succes
  */
