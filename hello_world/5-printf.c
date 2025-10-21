@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - point d'entree du programme 
+ * main - point d'entree du programme
  *
- * Description: affiche une phrase printf
+ * Description: affiche une phrase avec printf
  *
  * Return: 0 si le programme s'execute correctement
  */
