@@ -1,0 +1,1 @@
+ceci est un README pour le dossier variable
